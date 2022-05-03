@@ -9,3 +9,4 @@ public interface DetalleFacturaDao {
 	public List<DetalleFactura> list();
 	public void delete(int id);
 }
+
