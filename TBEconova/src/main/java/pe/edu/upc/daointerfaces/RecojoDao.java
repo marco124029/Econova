@@ -9,3 +9,4 @@ public interface RecojoDao {
 	public List<Recojo> list();
 	public void delete(int id);
 }
+
